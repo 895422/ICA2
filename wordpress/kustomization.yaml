@@ -1,2 +1,2 @@
 resources:
-  - wordpress-deployment.yaml
+  - wordpress.yaml
